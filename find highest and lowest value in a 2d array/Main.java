@@ -1,12 +1,10 @@
 package ilkproje;
-import java.lang.Math;
 import java.util.Arrays;
-import java.util.Scanner;
 public class Main{
 
 
 	public static void main(String[] args) {
-		Scanner scanner = new Scanner(System.in);
+
 		int[][] array = {{1,2,3},{4,5,677},{-87},{66,54,32,2,1}};
 		System.out.println(Arrays.toString(highestAndLowest(array)));
 
