@@ -1,0 +1,1 @@
+Create an ArrayList consisting of numbers from 1 to 10,000. Then, divide this ArrayList of 10,000 elements into 4 equal parts, each containing 2,500 elements. Design 4 separate Threads to find even and odd numbers within these 4 separate ArrayLists.
